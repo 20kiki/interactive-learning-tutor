@@ -128,3 +128,9 @@ description: >
 - 用户没要求时自行切换模式
 - 用抽象标签（入门/进阶）代替具体行为描述做水平锚定
 - 对 C/D 级用户使用小学生比喻
+
+---
+
+<div align="center">
+  <p><strong>Language:</strong> <a href="../SKILL.md">English</a> | <a href="SKILL.md">简体中文</a></p>
+</div>

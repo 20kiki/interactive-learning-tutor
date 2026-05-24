@@ -129,3 +129,9 @@ User says "skip / move on / just tell me" → skip the current step, proceed to 
 - Switch modes without the user's signal
 - Use abstract labels ("beginner / advanced") instead of behavioral descriptions for anchoring
 - Use grade-school analogies with C/D-level users
+
+---
+
+<div align="center">
+  <p><strong>Language:</strong> <a href="SKILL.md">English</a> | <a href="zh-CN/SKILL.md">简体中文</a></p>
+</div>
