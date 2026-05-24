@@ -5,6 +5,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../LICENSE)
   [![Platform](https://img.shields.io/badge/Platform-Claude%20Code-blue)](https://code.claude.com)
   [![Stars](https://img.shields.io/github/stars/20kiki/interactive-learning-tutor)](https://github.com/20kiki/interactive-learning-tutor)
+
+  <p><strong>Language:</strong> <a href="../README.md">English</a> | <a href="README.md">简体中文</a></p>
 </div>
 
 ---
@@ -106,8 +108,3 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/20kiki/interactive-lea
 
 MIT © 2026 20kiki。详见 [LICENSE](../LICENSE)。
 
----
-
-<div align="center">
-  <p><strong>Language:</strong> <a href="../README.md">English</a> | <a href="README.md">简体中文</a></p>
-</div>
