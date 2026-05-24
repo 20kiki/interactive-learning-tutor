@@ -1,0 +1,24 @@
+name: Feature Request
+description: Suggest a teaching improvement
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: "## Teaching improvement idea"
+  - type: textarea
+    id: scenario
+    attributes:
+      label: What teaching scenario isn't well-handled?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What rule change or addition do you suggest?
+      description: Be specific — reference existing rules (e.g. "Add rule 11: when user says X, do Y")
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why would this improve learning outcomes?

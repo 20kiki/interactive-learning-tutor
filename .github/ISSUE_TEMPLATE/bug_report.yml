@@ -1,0 +1,35 @@
+name: Bug Report
+description: Report a teaching behavior issue
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "## Thanks for helping improve the tutor!"
+  - type: input
+    id: trigger
+    attributes:
+      label: What did you say to trigger the skill?
+      placeholder: e.g. "teach me about closures"
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What did the tutor do?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect it to do?
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Which mode were you in?
+      options:
+        - Learning mode (学习模式)
+        - Q&A mode (答疑模式)
+        - Overview mode (速览模式)
+        - Not sure
