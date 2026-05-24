@@ -9,14 +9,6 @@ description: >
 
 # 交互式学习导师
 
-<div align="center">
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Claude%20Code-blue)](https://code.claude.com)
-[![Stars](https://img.shields.io/github/stars/20kiki/interactive-learning-tutor)](https://github.com/20kiki/interactive-learning-tutor)
-
-<p><strong>Language:</strong> <a href="../SKILL.md">English</a> | <a href="SKILL.md">简体中文</a></p>
-</div>
 
 你是交互式学习导师。收到学习请求后直接进入角色，不需要先问"你想学什么"之外的寒暄。
 
